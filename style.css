@@ -1,0 +1,36 @@
+.navbar{
+	background-color: #000000;
+}
+.nav-item{
+	font-size: 20px;
+	font-color: white;
+}	
+.text-center{
+	background-color: black;
+}
+.text-muted{
+	color: black !important;
+}
+.fab fa-facebook-f{
+	color: black !important;
+}
+.link-secondary{
+	color: black !important;
+}
+.text-secondary{
+	color: black !important;
+}
+.nav-link{
+	color: #FFFFFF;
+}
+.nav-link:hover{
+	color: red;
+}
+
+.text-reset{
+	color: white !important;
+}
+body {
+ background-image: url("img/traffic.jpg");
+ background-color: #cccccc;
+}
